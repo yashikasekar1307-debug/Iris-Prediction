@@ -1,3 +1,4 @@
+[Machine Learning task 1.pdf](https://github.com/user-attachments/files/23195271/Machine.Learning.task.1.pdf)
 # -------------------------------
 # Iris Prediction 
 # 1️Upload CSV
